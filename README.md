@@ -1,5 +1,16 @@
 # Visualizing-Storm-Data
 CSCI 627 Data Visualization: Final Project 
+
+Introduction: 
+This project presents a comprehensive analysis of storm event data across the United States, 
+spanning a 23-year period. Utilizing data from NOAA's National Weather Service, this project 
+aims to visually represent and interpret the spatial distribution, frequency, and impact of various 
+storm types. Through interactive data visualizations, including a choropleth map, line charts, 
+and scatter plots, the project seeks to uncover patterns and correlations within storm data, 
+providing insights into trends in meteorological events and their consequences. This endeavor 
+not only enhances understanding of historical storm patterns but also aids in preparedness and 
+response strategies for future weather-related events.
+
 Name of Dataset: Storm Events Database
 
 Storm Events Database: https://www.ncdc.noaa.gov/stormevents/ftp.jsp
